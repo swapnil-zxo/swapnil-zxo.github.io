@@ -4,6 +4,9 @@ source "https://rubygems.org"
 
 gemspec
 
+# This ensures you use the exact versions GitHub Pages supports
+gem "github-pages", group: :jekyll_plugins
+
 gem "html-proofer", "~> 5.0", group: :test
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
