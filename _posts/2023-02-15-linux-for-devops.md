@@ -1,22 +1,17 @@
 ---
 title: Essential Linux Commands for DevOps Engineers
+description: >-
+  This guide covers the "daily driver" commands that go beyond basic navigation, focusing on troubleshooting, resource monitoring, and automation. 
+author: swapnil
 date: 2023-02-15 12:00:00 +0530
 categories: [DevOps, Cheatsheets]
 tags: [linux, bash, terminal, troubleshooting, server-management]
-# image:
-#   path: /assets/img/headers/linux-header.jpg
-#   alt: Linux Terminal
-pin: false
-math: false
+pin: true
+media_subpath: '/posts/20180809'
 ---
 
 As a DevOps engineer, the terminal is your home. Whether you are debugging a crashing container, analyzing HTTP traffic, or managing file permissions, mastery of the command line is non-negotiable.
 
-This guide covers the "daily driver" commands that go beyond basic navigation, focusing on troubleshooting, resource monitoring, and automation.
-
-
-### `top` / `htop`
-Standard for viewing real-time system processes. While `top` is pre-installed everywhere, `htop` provides a friendlier, color-coded interface.
 
 ```bash
 # Standard top
