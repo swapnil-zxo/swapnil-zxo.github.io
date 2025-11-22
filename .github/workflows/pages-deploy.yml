@@ -37,7 +37,7 @@ jobs:
           node-version: 20
 
       - name: Build Assets (Chirpy)
-        run: npm ci && npm run build
+        run: npm install && npm run build
 
       - name: Build Site (Jekyll)
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
