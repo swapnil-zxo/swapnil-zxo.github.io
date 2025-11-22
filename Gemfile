@@ -1,17 +1,15 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gemspec
+# Remove 'gem "github-pages"' completely.
+# Use core Jekyll instead.
+gem "jekyll", "~> 4.3"
 
-# This ensures you use the exact versions GitHub Pages supports
-gem "github-pages", group: :jekyll_plugins
+# Your theme
+gem "jekyll-theme-chirpy", "~> 7.4"
 
-gem "html-proofer", "~> 5.0", group: :test
-
-platforms :mingw, :x64_mingw, :mswin, :jruby do
-  gem "tzinfo", ">= 1", "< 3"
-  gem "tzinfo-data"
+# If you are running this locally on Windows/Linux, you might need these:
+group :jekyll_plugins do
+  gem "jekyll-sitemap"
+  gem "jekyll-seo-tag"
+  gem "webrick" # Required for Ruby 3.0+ local server
 end
-
-gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
