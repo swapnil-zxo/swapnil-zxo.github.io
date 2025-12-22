@@ -4,26 +4,23 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> This blog is run by ___Swapnil Mali___, an AWS DevOps Engineer who builds secure, reliable, and scalable systems in the cloud. He is passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). He specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society.
+#### 📝 This blog is run by ___Swapnil Mali___, an AWS DevOps Engineer who builds secure, reliable, and scalable systems in the cloud. He is passionate about cloud technology and the process of developing, testing, and deploying software through continuous integration and delivery (CI/CD). He specialize in using AWS and DevOps tools and aim to contribute to impactful projects that benefit society.
 
-> 🚀 This site focuses on making real-world DevOps concepts easy to understand. 🧠 Every article turns complex cloud ideas into clear, step-by-step guides that developers, beginners, and growing teams can actually use in their day-to-day work. 💻✨
+#### 🚀 This site focuses on making real-world DevOps concepts easy to understand. 🧠 Every article turns complex cloud ideas into clear, step-by-step guides that developers, beginners, and growing teams can actually use in their day-to-day work. 💻✨
 
 ---
 
-### 📬 How to reach him: 
-<p align="left">
-<a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="40" width="40" />swapnilmali848@gmail.com</a> 
-</p>
-<p align="left">
-<a href="https://t.me/swapnilmali" target="blank"><img align="center" src="https://toppng.com/uploads/preview/telegram-logo-transparent-background-11661551214mmusgfge6f.png" alt="telegram" height="40" width="40" />@swapnilmali</a> 
-</p>
-<p align="left">
-<a href="https://x.com/@SMSimplifies" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="40" width="40" />@SMSimplifies</a> 
-</p>
-  
+#### 📬 How to reach him: 
+
+<p><a href="mailto:swapnilmali848@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo-2013.png" alt="gmail" height="40" width="40" />swapnilmali848@gmail.com</a></p>
+
+<p><a href="https://t.me/swapnilmali" target="blank"><img align="center" src="https://toppng.com/uploads/preview/telegram-logo-transparent-background-11661551214mmusgfge6f.png" alt="telegram" height="40" width="40" />@swapnilmali</a></p>
+
+<p><a href="https://x.com/@SMSimplifies" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-symbol-png-11692479881mg8srkkgy5.webp" alt="x" height="40" width="40" />@SMSimplifies</a></p>
+
 ---
 
-### 📌 Tech Stack that he currently work on: 
+#### 📌 Tech Stack that he currently work on: 
 
 <div align="center" style="white-space: nowrap;">  
 <p align="left">
@@ -32,8 +29,8 @@ order: 4
 
 ---
 
-### Happy Coding! 😊
-### As a Cloud & DevOps Engineer
+#### Happy Coding! 😊
+#### As a Cloud & DevOps Engineer
 
 ---
 
