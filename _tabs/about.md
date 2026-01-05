@@ -14,9 +14,11 @@ order: 4
 
 - Email: <a href="mailto:swapnilmali848@gmail.com" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">swapnilmali848@gmail.com</a>
 
-- Telegram: <a href="https://t.me/swapnilmali" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">@swapnilmali</a>
+- GitHub: <a href="https://github.com/swapnil-zxo" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">@swapnil-zxo</a>
 
-- X: <a href="https://x.com/@SMSimplifies" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">@SMSimplifies</a>
+- LinkedIn: <a href="https://linkedin.com/in/swapnilmali-devops" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">@swapnilmali-devops</a>
+
+- X: <a href="https://x.com/@swapnil_zxo" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">@swapnil_zxo</a>
 
 ---
 
