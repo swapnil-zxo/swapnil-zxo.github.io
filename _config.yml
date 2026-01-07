@@ -26,10 +26,13 @@ description: >- # used by seo meta and the atom feed
 url: "https://blog.smicx20.in"
 
 github:
-  username: swapnil-zxo # change to your GitHub username
+  username: swapnilmali101 # change to your GitHub username
 
 twitter:
-  username: swapnil_zxo # change to your Twitter username
+  username: swapnilmali101 # change to your Twitter username
+
+linkedin:
+  username: swapnilmali-devops # change to your LinkedIn username
 
 social:
   # Change to your full name.
@@ -39,11 +42,12 @@ social:
   fediverse_handle: "" # change to your fediverse handle or leave empty
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/swapnil_zxo # change to your Twitter homepage
-    - https://github.com/swapnil-zxo # change to your GitHub homepage
+    - https://twitter.com/swapnilmali101 # change to your Twitter homepage
+    - https://github.com/swapnilmali101 # change to your GitHub homepage
+    - https://www.linkedin.com/in/swapnilmali-devops # change to your LinkedIn homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/swapnilmali-devops
+    
 
 # Site Verification Settings
 webmaster_verifications:
